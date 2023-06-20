@@ -1,4 +1,8 @@
 - Va chạm mềm, đàn hồi
+
+![image](https://github.com/lyng148/vatlydaicuong/assets/113703761/c002ffcd-75b3-4b42-bcf1-23d4265d9b4c)
+
+
 - T = mg ( 3cosa - 2cosa0 )
 - c11, 14
 - L = I.w = k.d = m.v.d ( momen động lượng )
@@ -11,3 +15,4 @@
 Công thức tính nhanh:
 
 ![image](https://github.com/lyng148/vatlydaicuong/assets/113703761/0e6b06c5-7f4e-491d-946b-05dfd5b04bce)
+
