@@ -16,3 +16,4 @@ Công thức tính nhanh:
 
 ![image](https://github.com/lyng148/vatlydaicuong/assets/113703761/0e6b06c5-7f4e-491d-946b-05dfd5b04bce)
 
+![image](https://github.com/lyng148/vatlydaicuong/assets/113703761/10bb8303-544f-4952-8f8c-edf60d80d223)
